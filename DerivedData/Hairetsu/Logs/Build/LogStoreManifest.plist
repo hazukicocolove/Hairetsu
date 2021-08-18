@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>256DD82E-8986-4EA3-AADD-07D700225E14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>256DD82E-8986-4EA3-AADD-07D700225E14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hairetsu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hairetsu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hairetsu</string>
+			<key>timeStartedRecording</key>
+			<real>650955672.50669599</real>
+			<key>timeStoppedRecording</key>
+			<real>650955672.95227897</real>
+			<key>title</key>
+			<string>Build Hairetsu</string>
+			<key>uniqueIdentifier</key>
+			<string>256DD82E-8986-4EA3-AADD-07D700225E14</string>
+		</dict>
+		<key>25ED1858-C8AE-459A-B4E8-344E2AD62D60</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>25ED1858-C8AE-459A-B4E8-344E2AD62D60.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hairetsu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hairetsu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hairetsu</string>
+			<key>timeStartedRecording</key>
+			<real>650955584.40070999</real>
+			<key>timeStoppedRecording</key>
+			<real>650955587.51159799</real>
+			<key>title</key>
+			<string>Build Hairetsu</string>
+			<key>uniqueIdentifier</key>
+			<string>25ED1858-C8AE-459A-B4E8-344E2AD62D60</string>
+		</dict>
+		<key>3C3B41B4-EA79-452B-9A46-705151D052ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C3B41B4-EA79-452B-9A46-705151D052ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hairetsu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hairetsu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hairetsu</string>
+			<key>timeStartedRecording</key>
+			<real>650955098.74127805</real>
+			<key>timeStoppedRecording</key>
+			<real>650955098.88592899</real>
+			<key>title</key>
+			<string>Build Hairetsu</string>
+			<key>uniqueIdentifier</key>
+			<string>3C3B41B4-EA79-452B-9A46-705151D052ED</string>
+		</dict>
+		<key>52393398-1681-439D-8069-812D4759AD6D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52393398-1681-439D-8069-812D4759AD6D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hairetsu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hairetsu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hairetsu</string>
+			<key>timeStartedRecording</key>
+			<real>650955071.66577601</real>
+			<key>timeStoppedRecording</key>
+			<real>650955080.30316103</real>
+			<key>title</key>
+			<string>Build Hairetsu</string>
+			<key>uniqueIdentifier</key>
+			<string>52393398-1681-439D-8069-812D4759AD6D</string>
+		</dict>
+		<key>856581C3-6D14-4F37-A6FC-BC71CE0F28F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>856581C3-6D14-4F37-A6FC-BC71CE0F28F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hairetsu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hairetsu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Hairetsu</string>
+			<key>timeStartedRecording</key>
+			<real>650955179.50988603</real>
+			<key>timeStoppedRecording</key>
+			<real>650955180.21189106</real>
+			<key>title</key>
+			<string>Build Hairetsu</string>
+			<key>uniqueIdentifier</key>
+			<string>856581C3-6D14-4F37-A6FC-BC71CE0F28F4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

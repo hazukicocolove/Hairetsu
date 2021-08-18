@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "a07de3e08eb7a43b5ea7164be6215ab0"
+build_time: [1629259325, 787114000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/Hairetsu/Hairetsu/ViewController.swift": [1629259325, 492831371]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Hairetsu/Hairetsu/AppDelegate.swift": [1629259005, 456037882]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Hairetsu/Hairetsu/SceneDelegate.swift": [1629259005, 466158492]
